@@ -3,7 +3,7 @@
 A production-ready Web3 application built on the **Stellar Testnet** using **Soroban** smart contracts. This project demonstrates Level 2 (Yellow Belt) requirements for multi-wallet integration, real-time event handling, and transaction tracking.
 
 ## 🚀 Live Demo
-[Placeholder Link]
+[(https://stellar-dapp.vercel.app/)]
 
 ## ✨ Key Features
 - **Multi-Wallet Integration**: Supports Freighter, xBull, and Albedo via `@creit.tech/stellar-wallets-kit`.
